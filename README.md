@@ -21,7 +21,7 @@ ___작성자: 이동현  학번:20223137  학과:AI소프트웨어학부(컴퓨�
     + **q** : 종료
     + **P** : CPU 사용률 순으로 정렬(기본값)
     + **M** : 메모리 사용률 순으로 정렬
-     ![top 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/top.png)
+![top 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/top.png)
 
 ## 2. ps 명령어
 + 용도 : 현재 시스템에 실행 중인 프로세스들의 스냅샷을 볼 때 사용
@@ -31,7 +31,7 @@ ___작성자: 이동현  학번:20223137  학과:AI소프트웨어학부(컴퓨�
     + **f** : 트리구조 형태로 표시
     + **q** : 터미널과 관련된 모든 프로세스 표시
     + **u** : 사용자 기반 포맷으로 자세한 정보를 표시
-       ![ps 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/ps.png)
+![ps 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/ps.png)
 
 ## 3. jobs 명령어
 + 용도 : 현재 로그인된 셸에서 백그라운드나 중지된 상태로 실행 중인 명령어들의 목록을 확인할 때 씀
@@ -40,7 +40,7 @@ ___작성자: 이동현  학번:20223137  학과:AI소프트웨어학부(컴퓨�
     + **Running** : 백그라운드에서 실행 중
     + **Stopped** : 실행이 일시 중지 됨
     + **Done** : 작업이 완료 됨
-      ![jobs 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/jobs.png)
+![jobs 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/jobs.png)
 
  ## 4. kill 명령어
  + 용도 : 특정 프로세스에게 시그널을 보내서 종료하거나 제어할 때 사용
