@@ -19,3 +19,5 @@
     + q : 종료
     + P : CPU 사용률 순으로 정렬(기본값)
     + M : 메모리 사용률 순으로 정렬
+     ![top 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/top.png)
+
