@@ -29,4 +29,5 @@
     + f : 트리구조 형태로 표시
     + q : 터미널과 관련된 모든 프로세스 표시
     + u : 사용자 기반 포맷으로 자세한 정보를 표시
+       ![ps 실행 화면](https://github.com/1-orn-h/20223137_Homework1/blob/main/image.png)
       
